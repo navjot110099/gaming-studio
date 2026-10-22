@@ -4,6 +4,8 @@
 
 A two-page website for **Nexus//Void**, a fictional independent game studio and pro esports organisation based in Berlin. The design is a dark, HUD-inspired interface — near-black canvases, electric cyan and acid lime signals, chamfered panels and monospaced telemetry — that stays disciplined rather than chaotic.
 
+**Live site:** <https://gaming-studio-two.vercel.app>
+
 ![Nexus//Void — home page](docs/screenshots/home-desktop.jpg)
 
 ## Features
